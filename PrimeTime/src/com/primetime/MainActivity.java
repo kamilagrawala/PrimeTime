@@ -1,4 +1,3 @@
-// This a test for Push.
 package com.primetime;
 
 import android.app.Activity;
